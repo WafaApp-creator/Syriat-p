@@ -1,0 +1,17 @@
+{
+  "updated": "2026-10-28 10:40",
+  "usd": {
+    "central": { "buy": 121.5, "sell": 122.5 },
+    "black":   { "buy": 141.25, "sell": 141.75 }
+  },
+  "eur": {
+    "central": { "buy": 131, "sell": 132.2 },
+    "black":   { "buy": 163, "sell": 165 }
+  },
+  "fuel": [
+    { "name": "بنزين أوكتان 90", "en": "Gasoline 90", "icon": "⛽", "sub": "@l", "price": 130 },
+    { "name": "بنزين أوكتان 95", "en": "Gasoline 95", "icon": "⛽", "sub": "@l", "price": 150 },
+    { "name": "مازوت (ديزل)", "en": "Diesel", "icon": "🛢️", "sub": "@l", "price": 120 },
+    { "name": "غاز منزلي", "en": "Household gas", "icon": "🔥", "sub": "@c", "price": 2000 }
+  ]
+}
